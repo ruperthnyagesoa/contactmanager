@@ -1,7 +1,7 @@
 # React-Projects
 Contact Manager.
 
-[Visit Now]() 🚀
+[Visit Now](https://rnr-contactmanager.netlify.app/) 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
@@ -18,7 +18,7 @@ Contact Manager.
 
 **Deployed On:**
 
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 ## Sneak Peek of Home Page 🙈 :
