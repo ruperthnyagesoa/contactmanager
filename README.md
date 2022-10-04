@@ -22,7 +22,7 @@ Contact Manager.
 
 
 ## Sneak Peek of Home Page 🙈 :
-![reactsite].png)
+![reactsite].(https://github.com/ruperthnyagesoa/contactmanager/blob/main/public/Screenshot%20(8).png)
 
 <h2>📬 Contact</h2>
 
