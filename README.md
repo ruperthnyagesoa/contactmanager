@@ -1,7 +1,7 @@
 # React-Projects
 Contact Manager.
 
-[Visit Now](https://contactmanager.herokuapp.com/) 🚀
+[Visit Now]() 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
@@ -9,7 +9,7 @@ Contact Manager.
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&
+![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend:**
 
@@ -20,7 +20,6 @@ Contact Manager.
 
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-**Image Management:** [Cloudinary](https://cloudinary.com/)
 
 ## Sneak Peek of Home Page 🙈 :
 ![reactsite].png)
@@ -34,4 +33,4 @@ If you want to contact me, you can reach me through below handles.
 © 2022 Ruperth Nyagesoa
 
 
-[![forthebadge](<https://forthebadge.com/ima>
+[![forthebadge](<https://forthebadge.com/image>
