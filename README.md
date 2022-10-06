@@ -1,5 +1,4 @@
-# React-Projects
-Contact Manager.
+# React-Projects.
 
 [Visit Now](https://rnr-contactmanager.netlify.app/) 🚀
 
@@ -21,7 +20,6 @@ Contact Manager.
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-//i like this
 ## Sneak Peek of Home Page 🙈 :
 ![jsprothumb3](reactcontman.png)
 
